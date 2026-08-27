@@ -3,7 +3,7 @@ site_description: "Support documentation"
 
 
 # --- THIS IS THE MAGIC FIX FOR OFFLINE SHARING ---
-use_directory_urls: false
+
 
 theme:
   name: "material"
@@ -14,6 +14,7 @@ theme:
     - "navigation.expand"     # This allows sections to be collapsible dropdowns
     - "search.suggest"
     - "search.highlight"
+    - "content.code.copy"
     # We removed "navigation.tabs" to move the menu from the top to the left sidebar
 
 extra_css:

@@ -8,7 +8,7 @@ Standard workflows for finding, evaluating, and managing support cases within Sa
 
 1. **Start the Case:** Click <span style="color: #0063A3; font-style: italic;">New</span> on the "Cases" tab, or find a Contact and click <span style="color: #0063A3; font-style: italic;">New Case</span> from their related items.
 	
-	<img src="assets/SF_NewCases.png" style="width: 100%; border: 1px solid #d1d5db; border-radius: 4px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.5)'; this.style.zIndex='100'; this.style.position='relative';" onmouseout="this.style.transform='scale(1)'; this.style.zIndex='1';">
+	<img src="/assets/SF_NewCases.png" style="width: 100%; border: 1px solid #d1d5db; border-radius: 4px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.5)'; this.style.zIndex='100'; this.style.position='relative';" onmouseout="this.style.transform='scale(1)'; this.style.zIndex='1';">
 	
 2. Select Case Record Type as <span style="color: #0063A3; font-style: italic;">Support Case</span>.
 
