@@ -1,0 +1,52 @@
+site_name: "SEA SalesForce Service Guide"
+site_description: "Support documentation"
+
+
+# --- THIS IS THE MAGIC FIX FOR OFFLINE SHARING ---
+use_directory_urls: false
+
+theme:
+  name: "material"
+  logo: "assets/logo.png"
+  favicon: "assets/logo.png"
+  features:
+    - "navigation.sections"   # This creates the bold section dividers
+    - "navigation.expand"     # This allows sections to be collapsible dropdowns
+    - "search.suggest"
+    - "search.highlight"
+    # We removed "navigation.tabs" to move the menu from the top to the left sidebar
+
+extra_css:
+  - "stylesheets/custom.css"
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - pymdownx.details
+  - pymdownx.superfences
+
+nav:
+  - SEA SalesForce Service Guide:
+    - Service Console:
+        - Overview: index.md
+        - Accessing Salesforce: Access.md
+        - Case Management:
+            - Working on Cases: WorkingonCases.md
+            - Finding the Contacts: Contact.md
+            - Creating Manual Cases: creating-cases.md
+            - Manual Close Cases: ManualClosesCase.md
+            - Go Dark Process: CloseCases.md
+            - Log Call: Logcall.md
+        - Reassign Cases:
+            - Escalation: ReassignCases.md
+        - Help and Resources:
+            - Resources: resources.md
+            - Technical Support: support.md
+    - Onboarding:
+        - Overview: OnboardingOverview.md
+        

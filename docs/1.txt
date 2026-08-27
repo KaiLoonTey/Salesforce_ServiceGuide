@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trimble | Reassigning Cases</title>
+    
+    <!-- Google Fonts: Open Sans -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,400&display=swap" rel="stylesheet">
+
+    <style>
+        /* --- 1. TRIMBLE DESIGN SYSTEM VARIABLES --- */
+        :root {
+            /* Primary Colors */
+            --trimble-blue: #0063a3;       
+            --trimble-blue-dark: #004f83;  
+            --trimble-yellow: #fbad26;     
+            --trimble-gray-dark: #252a2e;  
+            
+            /* Neutrals */
+            --slate-400: #94a3b8;
+            --slate-700: #334155;
+            --gray-light: #f1f1f6;
+            --white: #ffffff;
+            --border-color: #d1d5db;
+            --gray-caption: #6b7280;
+
+            /* Settings */
+            --font-family: 'Open Sans', sans-serif;
+            --container-width: 1100px;
+        }
+
+        /* --- 2. GLOBAL RESETS --- */
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        
+        html, body { height: 100%; }
+
+        body {
+            font-family: var(--font-family);
+            color: var(--trimble-gray-dark);
+            background-color: var(--white);
+            line-height: 1.6;
+            display: flex;
+            flex-direction: column;
+            -webkit-font-smoothing: antialiased;
+        }
+
+        a { text-decoration: none; color: var(--trimble-blue); transition: color 0.2s; }
+        a:hover { color: var(--trimble-blue-dark); text-decoration: underline; }
+
+        img { max-width: 100%; height: auto; }
+
+        /* --- 3. TYPOGRAPHY --- */
+        h1, h2, h3, h4 { 
+            font-weight: 800; 
+            margin-bottom: 1rem; 
+            color: var(--trimble-gray-dark); 
+        }
+
+        h1 { 
+            font-size: 3.5rem; 
+            line-height: 1.2; 
+            color: white; 
+        } 
+        
+        h2 {
+            color: var(--trimble-blue);
+            font-size: 2.5rem; 
+            margin-top: 3rem;
+            margin-bottom: 1.5rem;
+            border-bottom: 2px solid var(--trimble-blue);
+            padding-bottom: 10px;
+        }
+        
+        h3 { font-size: 1.5rem; color: var(--trimble-blue); margin-bottom: 0.75rem; margin-top: 2rem; }
+        p, li { font-size: 1rem; margin-bottom: 1rem; }
+        strong { font-weight: 700; }
+
+        /* --- 4. LAYOUT UTILITIES --- */
+        .container {
+            max-width: var(--container-width);
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+
+        /* Standard Vertical Layout wrapper for sections that don't need a grid */
+        .content-block {
+            margin-bottom: 2rem;
+        }
+
+        /* Image Wrapper with spacing */
+        .img-wrapper {
+            text-align: center;
+            margin-top: 2.5rem;
+            margin-bottom: 2.5rem;
+        }
+
+        .img-caption {
+            margin-top: 0.5rem;
+            font-size: 0.875rem;
+            color: var(--gray-caption);
+            font-style: italic;
+            font-weight: 600;
+        }
+
+        /* --- 5. HEADER STYLE --- */
+        header {
+            background-color: var(--white);
+            border-bottom: 1px solid var(--border-color);
+            padding: 15px 0;
+        }
+
+        .brand {
+            font-size: 1.2rem;
+            font-weight: 800;
+            color: var(--trimble-blue);
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        
+        .brand span { color: var(--trimble-gray-dark); font-weight: 400; }
+
+        /* --- 6. HERO STYLE --- */
+        .hero {
+            background: linear-gradient(135deg, var(--trimble-blue-dark) 0%, #0077c8 100%);
+            color: white;
+            padding: 60px 0;
+            text-align: center;
+        }
+
+        .hero h1 { margin-bottom: 1rem; }
+        .hero p { opacity: 0.95; font-size: 1.15rem; max-width: 900px; line-height: 1.8; margin: 0 auto; color: white; font-weight: 400; }
+
+        /* --- 7. MAIN CONTENT AREA --- */
+        .main-content {
+            padding: 50px 0;
+            flex-grow: 1; 
+        }
+
+        /* --- 8. COMPONENTS --- */
+        
+        /* Lists */
+        ul {
+            list-style: none; /* Removed default bullets */
+            padding: 0;
+            margin-bottom: 20px;
+        }
+        ul li {
+            position: relative;
+            padding-left: 30px;
+            margin-bottom: 15px;
+            color: var(--slate-700);
+        }
+        /* Custom Bullet Points */
+        ul li::before {
+            content: "•";
+            color: var(--trimble-blue);
+            font-weight: bold;
+            font-size: 1.5rem;
+            position: absolute;
+            left: 0;
+            top: -5px;
+        }
+
+        /* Info Box / Note */
+        .info-box {
+            background-color: #f0f9ff;
+            border-left: 5px solid var(--trimble-blue);
+            padding: 25px;
+            border-radius: 4px;
+            margin-bottom: 30px;
+            margin-top: 20px;
+        }
+        .info-box p { margin: 0; }
+        .info-box strong { color: var(--trimble-blue-dark); }
+
+        /* Content Image (Static - No Hover Zoom) */
+        .content-img {
+            display: inline-block;
+            background-color: white;
+            border-radius: 8px;
+            border: 1px solid #d1d5db;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+            /* Removed transition, cursor, and hover scale */
+        }
+
+        /* --- 9. FOOTER STYLE --- */
+        .standard-footer {
+            background-color: var(--trimble-gray-dark);
+            color: var(--slate-400);
+            padding: 1.5rem 0;
+            text-align: center;
+            font-size: 0.875rem;
+            border-top: 1px solid var(--slate-700);
+            margin-top: auto;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- HEADER -->
+    <header>
+        <div class="container">
+            <div class="brand">Trimble <span>Reassigning Cases</span></div>
+        </div>
+    </header>
+
+    <!-- HERO SECTION -->
+    <section class="hero">
+        <div class="container">
+            <h1>Reassigning Cases</h1>
+            <p>The "Reassign Case" function allows you to move a case to a different team or queue. This can be done by either transferring or escalating the case.</p>
+        </div>
+    </section>
+
+    <!-- MAIN CONTENT -->
+    <main class="main-content">
+        <div class="container">
+
+            <!-- Intro Note -->
+            <div class="info-box">
+                <p><strong>Important:</strong> The "Reassign Case" function only works between teams that are already using DX Salesforce. For teams outside of DX Salesforce, traditional methods like email must still be used.</p>
+            </div>
+
+            <!-- SECTION 1: TRANSFER -->
+            <h2>Transfer a Case</h2>
+            <p><strong>Purpose:</strong> A transfer is used to move a case that was assigned to the wrong queue. Common reasons include being sent to the wrong regional queue, wrong product queue, or if a "Product" case is actually a "General" case.</p>
+            
+            <!-- Standard Vertical Block (Removed Grid) -->
+            <div class="content-block">
+                <ul>
+                    <li>Navigate to the <strong>Reassign Case</strong> tab within the case record.</li>
+                    <li>Select the option <strong>Transfer to Frontline Queues</strong>.</li>
+                    <li>Choose the correct queue to send the case to from the provided list.</li>
+                    <li>Depending on the queue, you may need to select the Case Product or review an AI-generated summary.</li>
+                    <li>Click <strong>Finish</strong> to complete the transfer.</li>
+                </ul>
+
+                <!-- IMAGE MOVED TO BOTTOM OF SECTION (Vertically Stacked) -->
+                <div class="img-wrapper">
+                    <img src="https://sgmyserviceguide.trimblesea.com/InternalGuide/transfercase.png" alt="Transfer Case Interface showing Frontline Queues selection" class="content-img" onerror="this.onerror=null; this.src='https://placehold.co/800x500?text=Transfer+Case+Image+Not+Found';">
+                    <p class="img-caption">Select "Transfer to Frontline Queues"</p>
+                </div>
+            </div>
+
+            <!-- SECTION 2: ESCALATE -->
+            <h2>Escalate a Case</h2>
+            <p><strong>Purpose:</strong> An escalation is used to move a case from a frontline (Tier 1) agent to a more skilled Tier 2 support team when higher-level expertise is required to resolve a complex issue.</p>
+            
+            <h3>How to Escalate a Case to Tier 2</h3>
+            <ul>
+                <li>Navigate to the <strong>Reassign Case</strong> tab within the case record.</li>
+                <li>Select the option <strong>Escalate to Tier 2 Queues</strong>.</li>
+                <li>From the list, choose the correct Tier 2 team (e.g., Americas Product Support, EMEA Product Support).</li>
+                <li><strong>Important:</strong> The <strong>Case Product</strong> field must be correctly filled out on the case before you can escalate. If it's missing, you must add it via the "Case Coding" tab first. For Trimble Connect, an Escalation Reason is required.</li>
+                <li>It is best practice to add a detailed post on the case feed explaining the steps already taken before escalating.</li>
+                <li>Click <strong>Next/Finish</strong> to complete the escalation.</li>
+            </ul>
+
+            <h3>What Happens After Escalation</h3>
+            <ul>
+                <li>The Case Owner will be changed to the selected Tier 2 team queue.</li>
+                <li>The case <strong>Status</strong> will be set to "New".</li>
+                <li>The case <strong>Sub-Status</strong> will be set to "Escalated".</li>
+                <li>The case <strong>Tier</strong> will be updated to "Tier 2".</li>
+            </ul>
+
+            <div class="info-box">
+                <p><strong>De-Escalation:</strong> A Tier 2 agent can de-escalate a case back to Tier 1 if necessary. This reassigns the case to its previous owner and sets the Tier back to "Tier 1".</p>
+            </div>
+
+        </div>
+    </main>
+
+    <!-- FOOTER -->
+    <footer class="standard-footer">
+        <div class="container">
+            <p>&copy; 2025 Service Team Resources. Internal Use Only.</p>
+        </div>
+    </footer>
+
+</body>
+</html>
