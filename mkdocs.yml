@@ -16,6 +16,8 @@ theme:
     - "search.highlight"
     - "content.code.copy"
     # We removed "navigation.tabs" to move the menu from the top to the left sidebar
+  
+
 
 extra_css:
   - "stylesheets/custom.css"
@@ -45,9 +47,11 @@ nav:
             - Log Call: Logcall.md
         - Reassign Cases:
             - Escalation: ReassignCases.md
+            - Manual Transfer Case: ManualTransfer.md
+        - Trimble Survey:
+            - NPS Score: NPS.md
         - Help and Resources:
             - Resources: resources.md
-            - Technical Support: support.md
     - Onboarding:
         - Overview: OnboardingOverview.md
         
