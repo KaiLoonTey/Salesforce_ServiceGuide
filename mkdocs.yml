@@ -48,6 +48,7 @@ nav:
         - Reassign Cases:
             - Escalation: ReassignCases.md
             - Manual Transfer Case: ManualTransfer.md
+            - Manual Transfer Case: Internal_Assign.md
         - Trimble Survey:
             - NPS Score: NPS.md
         - Help and Resources:
