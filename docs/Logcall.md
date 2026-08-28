@@ -14,7 +14,7 @@ Use the <span style="color: #0063A3;">**Log a Call**</span> feature when a phone
 4. Ensure the <span style="color: #0063A3;">**Correct Contact**</span> is associated with the call log.
 5. Click <span style="color: #0063A3;">**Save**</span>.
 
-![Log a Call Interface](assets/SF_Logcall.png){width="50%"}
+![Log a Call Interface](assets/SF_Logcall.png){width="80%"}
 
 ---
 
@@ -28,7 +28,7 @@ Use the <span style="color: #0063A3;">**New Event**</span> feature to schedule a
 4. Add any relevant <span style="color: #0063A3;">**Attendees**</span> (internal staff and customer contacts).
 5. Click <span style="color: #0063A3;">**Save**</span>.
 
-![New Event Interface](assets/SF_CreateEvent.png){width="50%"}
+![New Event Interface](assets/SF_CreateEvent.png){width="80%"}
 
 ---
 
