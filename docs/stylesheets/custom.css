@@ -202,3 +202,9 @@ body, .md-typeset {
     text-align: center;
     margin: 0;
 }
+
+strong {
+    color: #0063A3;
+}
+
+
