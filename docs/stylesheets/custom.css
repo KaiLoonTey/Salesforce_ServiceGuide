@@ -1,8 +1,11 @@
 /* --- GOOGLE FONTS --- */
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700;800&display=swap');
 
-/* --- TRIMBLE BRAND COLORS (TEKLA STYLE) --- */
+/* --- TRIMBLE BRAND COLORS (TEKLA STYLE) & LAYOUT --- */
 :root {
+  /* --- THIS FORCES THE SITE TO STRETCH ALL THE WAY TO THE EDGES --- */
+  --md-grid-max-width: 100%;
+
   /* Main Dark Blue */
   --md-primary-fg-color: #005a8c; 
   --md-primary-fg-color--light: #0077c8;
@@ -53,27 +56,29 @@ body, .md-typeset {
     margin-top: 2rem;
     margin-bottom: 1rem;
 }
+
 /* --- WIDEN THE LEFT SIDEBAR ON DESKTOP --- */
 @media screen and (min-width: 76.25em) {
     .md-sidebar--primary {
-        width: 13rem !important; /* The default is around 12rem */
+        width: 14rem !important; /* The default is around 12rem */
     }
     .md-main__inner {
         margin-left: 14rem !important; /* Pushes the main text over so they don't overlap */
     }
 }
+
 /* --- SIDEBAR NAVIGATION STYLING --- */
 
 /* 1. Main Guide Title */
 .md-nav--primary > .md-nav__list > .md-nav__item > .md-nav__link {
     font-family: 'Open Sans', sans-serif;
-    font-weight: 700; 
+    font-weight: 500; 
     color: var(--md-primary-fg-color) !important; 
-    font-size: 0.8rem; 
+    font-size: 0.7rem; 
     margin-bottom: 0.5rem;
 }
 
-/* 2. THE FIX: Targets the "Service Console" Dropdown specifically */
+/* 2. Targets the "Service Console" Dropdown specifically */
 .md-nav__item--nested > label.md-nav__link,
 .md-nav__item--nested > label.md-nav__link > .md-ellipsis,
 .md-nav__item--nested > label.md-nav__link > .md-nav__icon {
@@ -83,13 +88,14 @@ body, .md-typeset {
 
 /* 3. The pages inside the dropdown */
 .md-nav__item .md-nav__list {
-    margin-left: 1.5rem !important;
+    /* Reduced to pull nested text further left */
+    margin-left: 0.25rem !important;
 }
 
 .md-nav__item .md-nav__list .md-nav__link {
-    font-size: 0.8rem !important; 
+    font-size: 0.7rem !important; 
     font-weight: 400 !important; /* Keeps the sub-pages normal weight */
-    color: #4b5563 !important;   /* Keeps the sub-pages grey */
+    color: #00000 !important;   /* Keeps the sub-pages grey */
 }
 
 /* 4. Active Page in the dropdown */
@@ -136,7 +142,6 @@ body, .md-typeset {
 .md-typeset details.note > summary::before {
     background-color: #005a8c;
 }
-
 
 .md-typeset .admonition-title {
     font-size: 1.1rem !important; 
@@ -208,3 +213,8 @@ strong {
 }
 
 
+/* --- PUSH ENTIRE LAYOUT TO THE LEFT EDGE --- */
+.md-grid {
+    max-width: 98% !important; /* Stretches the container across the screen */
+    margin-left: 2rem !important; /* Pins the layout to the left edge with a small 1rem gap */
+}
