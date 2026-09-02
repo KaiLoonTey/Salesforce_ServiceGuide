@@ -51,9 +51,16 @@ nav:
             - Internal Team Reassign: Internal_Assign.md
         - Trimble Survey:
             - NPS Score: NPS.md
+        - Knowledge Base Article:
+            - How to Create Knowledge Article: KnowledgeBase.md
+        - Licensing Management:
+            - License Provision Guide: LicenseProvision.md
+            - License Suspension Guidelines: LicenseSuspend.md
+            - Relicense Portal: Relicense.md
         - Help and Resources:
             - Resources: resources.md
             - Support: support.md
+            - Key Support Contacts: Keycontact.md
     - Onboarding:
         - Overview: OnboardingOverview.md
         
