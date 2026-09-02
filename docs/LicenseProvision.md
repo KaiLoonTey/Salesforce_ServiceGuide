@@ -14,8 +14,8 @@ A step-by-step guide to confirming software license fulfillment across Salesforc
 * **Organization View (Tekla Admin Tool):** Verify if the license has reached the customer organization at [account.tekla.com](https://account.tekla.com/).
 * **Legacy/Contract (CRM Dynamics 360):** Used for cross-referencing legacy contracts or enterprise accounts not yet migrated to full CPQ automation.
 
-> **Understanding "Delivered" Status**
-> When an order is completed, the system triggers an automated email. In Salesforce, navigate to the **'Email Notifications'** section. If the **'Delivery Status'** is marked as 'delivered', the customer has officially received the license fulfillment notice. Always verify the recipient email matches the primary contact listed on the account.
+!!! info "Understanding "Delivered" Status"
+	When an order is completed, the system triggers an automated email. In Salesforce, navigate to the **'Email Notifications'** section. If the **'Delivery Status'** is marked as 'delivered', the customer has officially received the license fulfillment notice. Always verify the recipient email matches the primary contact listed on the account.
 
 ---
 <div style="background-color: #f4f7f9; border-left: 8px solid #005a8c; padding: 10px 20px; margin-top: 30px; margin-bottom: 20px;">
