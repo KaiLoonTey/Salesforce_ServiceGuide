@@ -49,9 +49,9 @@ nav:
             - Escalation: ReassignCases.md
             - Manual Transfer Case: ManualTransfer.md
             - Internal Team Reassign: Internal_Assign.md
-        - Trimble Survey:
+        - Trimble Surveys:
             - NPS Score: NPS.md
-        - Knowledge Base Article:
+        - Knowledge Base:
             - How to Create Knowledge Article: KnowledgeBase.md
         - Licensing Management:
             - License Provision Guide: LicenseProvision.md
@@ -59,9 +59,11 @@ nav:
             - Relicense Portal: Relicense.md
         - Reseller Guide: Reseller.md
         - Help and Resources:
-            - Resources: resources.md
+            - Reference Materials: resources.md
             - Support: support.md
             - Key Support Contacts: Keycontact.md
+    - Join a remote Session: Remote.md
+    - Issue Reporting: Jira.md
     - Onboarding:
         - Overview: OnboardingOverview.md
         
