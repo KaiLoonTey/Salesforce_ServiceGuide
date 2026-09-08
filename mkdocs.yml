@@ -57,6 +57,7 @@ nav:
             - License Provision Guide: LicenseProvision.md
             - License Suspension Guidelines: LicenseSuspend.md
             - Relicense Portal: Relicense.md
+        - Reseller Guide: Reseller.md
         - Help and Resources:
             - Resources: resources.md
             - Support: support.md
