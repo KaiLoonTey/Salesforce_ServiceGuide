@@ -218,3 +218,10 @@ strong {
     max-width: 98% !important; /* Stretches the container across the screen */
     margin-left: 2rem !important; /* Pins the layout to the left edge with a small 1rem gap */
 }
+
+
+/* --- Force Code Blocks to Wrap Text Instead of Scrolling --- */
+.md-typeset pre > code {
+    white-space: pre-wrap !important;
+    word-break: break-word !important;
+}

@@ -34,8 +34,8 @@ markdown_extensions:
   - pymdownx.superfences
 
 nav:
-  - SEA SalesForce Service Guide:
-    - Service Console:
+  - SEA Service Guide:
+    - SalesForce Service Console:
         - Overview: index.md
         - Accessing Salesforce: Access.md
         - Case Management:
@@ -58,11 +58,17 @@ nav:
             - License Suspension Guidelines: LicenseSuspend.md
             - Relicense Portal: Relicense.md
         - Reseller Guide: Reseller.md
+        - Service Team Salesforce Quick Text: Quicktext.md
         - Help and Resources:
             - Reference Materials: resources.md
             - Support: support.md
             - Key Support Contacts: Keycontact.md
     - Join a remote Session: Remote.md
+    - Service Team Calendar: SupportCalendar.md
+    - SEA Clinic Session: 
+        - Clinic Session: Clinic.md
+        - Clinic Workflow: Clinicworkflow.md
+    - Renewal Guide: Renewal.md
     - Issue Reporting: Jira.md
     - Onboarding:
         - Overview: OnboardingOverview.md
