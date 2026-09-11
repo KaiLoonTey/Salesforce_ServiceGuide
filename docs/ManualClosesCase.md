@@ -10,7 +10,7 @@ Follow these steps to properly close a case in Salesforce. This ensures accurate
 2. Set the **Status** to **Closed**.
 3. Select the appropriate **Sub-Status** (e.g., "Solution Completed" if the fix is confirmed, or "Solution Offered" if you've provided a solution without confirmation).
 4. Verify the **Case Type** is correct (e.g., Product, Issue, Incident). This is critical for reporting.
-5. Select the most fitting **Case Cause** and **Case Resolution** from the dropdown lists.
+5. Select the most fitting **Case Resolution** from the dropdown lists.
 6. In the **Resolution Description** box, write a brief, clear summary of the resolution. **This text is visible to the customer** in their case closure notification email.
 7. Click **Save** to officially close the case and trigger the notification.
 

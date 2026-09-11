@@ -27,8 +27,15 @@ Standard workflows for finding, evaluating, and managing support cases within Sa
 
 ---
 
-!!! info "Important Notes"
-    **For Product cases:** You must go to the "Case Coding" tab to add the Product, Application, and Support Category details. This is required to route and close the case correctly.
+!!! info "Important Note: New Case Coding Framework"
+    **For Product cases:** You must navigate to the **Case Coding** tab to properly categorize, route, and close the case. 
+    
+    A new standardized case coding framework has been deployed to DX Salesforce with the following updates:
+
+    * **Three-Tier Hierarchy:** Cases must now be categorized using three dependent fields: **Code Type**, **Code Sub-Type**, and **Code Issue**.
+    * **Affected Products:** This new framework applies to _SketchUp, Vista/Vista Web, Spectrum, ProContractor, ProjectSight, **Tekla Structures, Tekla Tedds, Tekla PowerFab**, Trimble Nova, and Autobid_. (Other product teams will continue using the previous process).
+    * **Code Types:** The majority of Code Types are unified across all products. Only the "Product" Code Type contains customized values.
+    * **Phased Rollout:** While these new fields are live, they are part of a phased rollout and are not immediately mandatory to close a case.
 
 !!! warning "Update for Manual Cases (WhatsApp, Line, etc.)"
     **Problem:** When manual cases are closed immediately, the "First Response Time" (FRT) is empty, which affects team reports.
