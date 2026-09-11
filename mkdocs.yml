@@ -72,4 +72,6 @@ nav:
     - Issue Reporting: Jira.md
     - Onboarding:
         - Overview: OnboardingOverview.md
+        - Working onboarding cases: OnboardingWorking.md
+        - Automated Onboarding Object: OnboardingObject.md
         
