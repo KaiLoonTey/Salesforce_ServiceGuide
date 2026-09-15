@@ -54,7 +54,7 @@ When the link is clicked, a new tab opens with a welcome message, followed by th
 ## Survey Questions
 
 
-![Survey Response Action](assets\SurveySample.png){width="50%"}
+![Survey Response Action](assets/SurveySample.png){width="50%"}
 
 The survey consists of:
 
@@ -72,7 +72,7 @@ Once submitted, the recipient is directed to a confirmation message.
 !!! warning "Negative Feedback Routing"
     If a customer selects **'Negative'** in response to their experience, the system automatically triggers two actions:
     
-	![Survey negative Action](assets\negativesurvey.png){width="50%"}
+	![Survey negative Action](assets/negativesurvey.png){width="50%"}
 	
 	---
 	
@@ -84,7 +84,7 @@ Once submitted, the recipient is directed to a confirmation message.
     
     Clicking on the notification takes the manager directly to the survey record, where they can easily find the associated Case link for further investigation.
     
-    ![Manager Notification Alert](assets\negativenotification.png){ width="40%" }
+    ![Manager Notification Alert](assets/negativenotification.png){ width="40%" }
 
 
 ## How to Check Survey Responses (Per Case)
