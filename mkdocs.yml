@@ -1,4 +1,4 @@
-site_name: "SEA SalesForce Service Guide"
+site_name: "SEA Service Guide"
 site_description: "Support documentation"
 
 
@@ -24,6 +24,10 @@ extra_css:
 
 plugins:
   - search
+  
+# Add your custom JS
+extra_javascript:
+  - javascripts/extra.js
 
 markdown_extensions:
   - admonition
@@ -74,4 +78,6 @@ nav:
         - Overview: OnboardingOverview.md
         - Working onboarding cases: OnboardingWorking.md
         - Automated Onboarding Object: OnboardingObject.md
-        
+    - Training:
+        - Overview: TrainingOverview.md 
+        - Training Calendar: TrainingCalendar.md        

@@ -25,11 +25,36 @@ The NPS (Net Promoter Score) Survey is a crucial tool for gathering feedback. Th
 * No Customer Response
 * No Resolution
 
-Any other values, such as **Duplicate** or **No Action/Spam**, will **<span style="color: #dc2626;">not</span>** trigger a survey link.
+!!!note "Note"
+	Any other values, such as **Duplicate** or **No Action/Spam**, will **<span style="color: #dc2626;">not</span>** trigger a survey link.
+	
+	If Case Sub-Status equals:
 
+	* **Issue Management**
+	* **Customer Closed**
+	* **External Transfer** 
+
+	or Case Resolution contains:
+
+	* **Transfer** 
+
+	The customer still gets the case closed notification, but it **<span style="color: #dc2626;">does not</span>** include the survey invite.
+
+
+!!! warning "Updated Exclusion Rules (Service Blazers Q1 2026)"
+    Case Closure email alerts have been updated. The survey link will **<span style="color: #dc2626;">not</span>** be sent in the following scenarios:
+    
+    * **Case Sub-Status equals:** `Issue Management`, `Customer Closed`, `External Transfer`, `Duplicate`, or `No Action/Spam`.
+    * **Case Resolution contains:** `Transfer`.
 When the link is clicked, a new tab opens with a welcome message, followed by the survey questions.
 
+
+---
+
 ## Survey Questions
+
+
+![Survey Response Action](assets\SurveySample.png){width="50%"}
 
 The survey consists of:
 
@@ -39,6 +64,28 @@ The survey consists of:
 * **1x Free text field:** For further comments and detailed feedback.
 
 Once submitted, the recipient is directed to a confirmation message.
+
+---
+
+## Survey Response Action
+
+!!! warning "Negative Feedback Routing"
+    If a customer selects **'Negative'** in response to their experience, the system automatically triggers two actions:
+    
+	![Survey negative Action](assets\negativesurvey.png){width="50%"}
+	
+	---
+	
+	1. A notification is sent directly to the support representative's manager.
+    2. A coaching opportunity record is created in Salesforce.
+
+!!! info "Real-Time Manager Notifications"
+    A custom notification, referencing the survey and case IDs, appears on the bell icon for the support manager in real-time. 
+    
+    Clicking on the notification takes the manager directly to the survey record, where they can easily find the associated Case link for further investigation.
+    
+    ![Manager Notification Alert](assets\negativenotification.png){ width="40%" }
+
 
 ## How to Check Survey Responses (Per Case)
 
@@ -57,3 +104,7 @@ To build a report for viewing all customer support survey responses your team ha
 2. **Select Report Type:** Start typing 'survey' into the search bar and select the **Cases with Survey Responses** report type when it appears.
 3. **Start Report:** Click the **Start Report** button.
 4. **Add Filters (Recommended):** We recommend adding filters to make it easier to identify data or trends. You can group the survey responses by Case Support Team, Case Owner, or Case Number.
+
+
+!!! note "Further Information"
+    For complete details on the updated Case Closure email alerts and survey logic, please refer to **Slide 41** of the [Service Blazers Q1 2026 User Guide](https://docs.google.com/presentation/d/1wCW2VUsj2xZI5vs1Py89zJqggIg60ApTuVv9Fvz5Kuk/edit?slide=id.g3c307ba50bd_0_84#slide=id.g3c307ba50bd_0_84).
