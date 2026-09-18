@@ -54,17 +54,16 @@ A step-by-step guide to confirming software license fulfillment across Salesforc
 * Entitlements for missing older versions, as well as **broken, lost, or replacement licenses**, are created by Tekla Orders in Finland ([tekla.orders@trimble.com](mailto:tekla.orders@trimble.com)).
 
 !!! info "Regional Order Admin (OA) Contacts"
+    Version entitlements are typically created by the regional order admin team. If you don’t know who to contact, local OA managers can help:
 
-	Version entitlements are typically created by the regional order admin team. If you don’t know who to contact, local OA managers can help:
-
-	| Region | Contact Email(s) |
-	| :--- | :--- |
-	| **APAC (excluding China)** | [apac-orders@trimble.com](mailto:apac-orders@trimble.com)<br>[Orapan_Kleedit@trimble.com](mailto:Orapan_Kleedit@trimble.com) |
-	| **India** | [Ashvini_Sowmiya@trimble.com](mailto:Ashvini_Sowmiya@trimble.com) |
-	| **DACH and UK** | [jenni_isliker@trimble.com](mailto:jenni_isliker@trimble.com) |
-	| **France** | [elsa.dacosta@trimble.com](mailto:elsa.dacosta@trimble.com) |
-	| **Brazil and US** | [JohnPatrick_LaRiviere@trimble.com](mailto:JohnPatrick_LaRiviere@trimble.com) |
-	| **Nordics, China, ME (incl. Israel) & Indirect** | [camilla.brander@trimble.com](mailto:camilla.brander@trimble.com) |
+    | Region | Contact Email(s) |
+    | :--- | :--- |
+    | **APAC (excluding China)** | <apac-orders@trimble.com> <br> <Orapan_Kleedit@trimble.com> |
+    | **India** | <Ashvini_Sowmiya@trimble.com> |
+    | **DACH and UK** | <jenni_isliker@trimble.com> |
+    | **France** | <elsa.dacosta@trimble.com> |
+    | **Brazil and US** | <JohnPatrick_LaRiviere@trimble.com> |
+    | **Nordics, China, ME (incl. Israel) & Indirect** | <camilla.brander@trimble.com> |
 
 ---
 

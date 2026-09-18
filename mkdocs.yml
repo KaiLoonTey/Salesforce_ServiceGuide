@@ -23,7 +23,8 @@ extra_css:
   - "stylesheets/custom.css"
 
 plugins:
-  - search
+  - search:
+      separator: '[\s\-_.@<>]+'
   
 # Add your custom JS
 extra_javascript:
