@@ -8,18 +8,17 @@ Understanding the customer journey through Salesforce onboarding stages.
 
 ![Onboarding Stages Pipeline](assets/onboardingstages.png)
 
-!!!note "Stage Definitions"
-
-	| Stage | Name | Definition |
-	| :--- | :--- | :--- |
-	| **Stage 01** | **New** | When the onboarding object is first created before anything has been done. |
-	| **Stage 02** | **Welcome** | Once first contact has been made with the customer, and the onboarding person has introduced themselves. |
-	| **Stage 03** | **Orientation** | Helping set things up for the customers. |
-	| **Stage 04** | **Pre-Training Session(s)** | Getting things ready for their training. |
-	| **Stage 05** | **Training** | Once Training is being delivered. |
-	| **Stage 06** | **Implementation** | Helping them implement the software into their business. |
-	| **Goal** | **Live** | Onboarding complete. |
-	| **Exception** | **Not Complete** | Onboarding on-hold/postponed or cancelled. |
+!!! note "Stage Definitions"
+    | Stage | Name | Definition |
+    | :--- | :--- | :--- |
+    | **Stage 01** | **New** | When the onboarding object is first created before anything has been done. |
+    | **Stage 02** | **Welcome** | Once first contact has been made with the customer, and the onboarding person has introduced themselves. |
+    | **Stage 03** | **Orientation** | Helping set things up for the customers. |
+    | **Stage 04** | **Pre-Training Session(s)** | Getting things ready for their training. |
+    | **Stage 05** | **Training** | Once Training is being delivered. |
+    | **Stage 06** | **Implementation** | Helping them implement the software into their business. |
+    | **Goal** | **Live** | Onboarding complete. |
+    | **Exception** | **Not Complete** | Onboarding on-hold/postponed or cancelled. |
 
 !!! tip "Process Flexibility"
     The stages used will vary between customers, depending on their requirements and what Sales has agreed to provide to them. You don't have to use every stage, so you can skip ones that don't apply.
@@ -36,11 +35,9 @@ Understanding the customer journey through Salesforce onboarding stages.
 !!! warning "Important Note"
     Currently, "Customer replied" does not track inside the Salesforce onboarding object. Please check your inbox regularly.
 
-
 <div style="background-color: #f4f7f9; border-left: 8px solid #005a8c; padding: 10px 20px; margin-top: 30px; margin-bottom: 20px;">
     <h2 style="margin: 0; color: #005a8c; font-size: 1.5rem; font-weight: 100; border-bottom: none; padding: 0;">Workflow Steps</h2>
 </div>
-
 
 1. **Locate the Record:** Navigate to the **Onboarding tab** in your main navigation bar, or use the quick links below. Select the specific Onboarding Object from the list view to open the record.
     * &rarr; [SEA Onboarding List](https://trimbledx.lightning.force.com/lightning/o/Onboarding__c/list?filterName=SEA_Onboarding1)
@@ -64,12 +61,16 @@ Understanding the customer journey through Salesforce onboarding stages.
     
     ![Bounced Email Example](assets/BounceEmail.png){ width="50%" }
 
-7. **Confirm License Access:** Ensure the onboarding contact has access to their software licenses so they can successfully start using the product. Check their access status using the [Tekla Admin Tool](https://admin.account.tekla.com/).
+7. **Initial Phone Verification (Log a Call):** Following the email dispatch, place a phone call to the customer to ensure Sales provided the correct contact details. Use this opportunity to introduce yourself, inform them that their license has been successfully issued on the ATC, and confirm they received your introductory email. You **must** document this by logging a call in the Salesforce Activity panel.
+    
+    ![Log Call Onboarding](assets/logcallonboarding.png){ width="50%" }
+
+8. **Confirm License Access:** Ensure the onboarding contact has access to their software licenses so they can successfully start using the product. Check their access status using the [Tekla Admin Tool](https://admin.account.tekla.com/).
     
     !!! note "Non-Admin Users"
         If the onboarding user is not a license administrator, you **must provide them with their company's admin contact information**. This allows them to request the necessary license assignments directly from their internal team.
 
-8. **Follow Up on License Activity:** 
+9. **Follow Up on License Activity:** 
     
     After **1 week**, log back into the Tekla Admin Tools to check the user's license activity status. If the system shows the user is **not active** or has not started using the license, drop them a call to check their status and offer assistance. Make sure to document this follow-up call by logging a new activity in the Salesforce Activity panel.
     
