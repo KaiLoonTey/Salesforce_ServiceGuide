@@ -94,6 +94,21 @@ Please find attached customer options.ini file.
 6. <span style="color: #0063A3;">Verify the Escalation:</span> Navigate to the <span style="color: #0063A3;">Details</span> tab and verify that the Status is marked as "New" or "Escalated", and the Tier field is updated to "Tier 2". The Case Owner will now be the selected Tier 2 team queue.
 7. <span style="color: #0063A3;">Confirm Queue Placement:</span> Confirm that the case appears in the correct team’s queue or on the appropriate dashboard.
 
+## Escalating Cases to Trimble Connect Support
+
+If a case requires advanced assistance from the Trimble Connect team, you can escalate it directly through the Tier 2 reassignment menu. 
+
+<div style="background-color: #f4f7f9; border-left: 8px solid #005a8c; padding: 10px 20px; margin-top: 30px; margin-bottom: 20px;">
+    <h2 style="margin: 0; color: #005a8c; font-size: 1.5rem; font-weight: 100; border-bottom: none; padding: 0;">How to Escalate:</h2>
+</div>
+
+1. Navigate to the **Feed & Actions** panel on the case record.
+2. Click on the **Reassign Case** tab.
+3. Under the **Choose Tier 2** prompt, select the **Trimble Connect** radio button and click Next.
+
+![Tier 2 Escalation - Trimble Connect](assets/trimbleconnectescalate.png){ width="700" }
+
+
 
 !!! note "Note"
 	</span> The <span style="color: #0063A3;">Case Product</span> field must be correctly filled out on the case before you can escalate. If it's missing, add it via the <span style="color: #0063A3;">Case Coding</span> tab first. For Trimble Connect, an Escalation Reason is required.
