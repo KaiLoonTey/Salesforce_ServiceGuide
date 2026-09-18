@@ -34,5 +34,5 @@ After changing ownership, it is critical to leave a "Post" on the case feed to e
 ---
 
 !!! info "Visual Guide: Full Transfer Process"
-	![Demonstration of changing case owner and posting a comment](/assets/SF_change owner.gif)
+	![Demonstration of changing case owner and posting a comment](assets/SF_change owner.gif)
 	**Watch the animation above for a full demonstration of the workflow.**

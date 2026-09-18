@@ -80,4 +80,6 @@ nav:
         - Automated Onboarding Object: OnboardingObject.md
     - Training:
         - Overview: TrainingOverview.md 
-        - Training Calendar: TrainingCalendar.md        
+        - Training Calendar: TrainingCalendar.md
+        - Training Material: TrainingMaterial.md
+        - Singapore PDU Point: pdu.md
