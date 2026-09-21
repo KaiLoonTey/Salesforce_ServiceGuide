@@ -84,3 +84,11 @@ nav:
         - Training Calendar: TrainingCalendar.md
         - Training Material: TrainingMaterial.md
         - Singapore PDU Point: pdu.md
+        - Training Checklist: TrainingChecklist.md
+        - Training Schedule: TrainingSchedule.md
+        - Learn.Trimble.com: 
+           - Overview: LTC_Overview.md
+           - Creating New Course: LTC_newcourse.md
+           - Credential: LTC_Credential.md  
+           - Training Checklist: TrainingChecklist.md
+           
