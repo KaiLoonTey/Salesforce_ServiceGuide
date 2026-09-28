@@ -36,7 +36,11 @@ markdown_extensions:
   - md_in_html
   - tables
   - pymdownx.details
-  - pymdownx.superfences
+  - pymdownx.superfences:
+        custom_fences:
+            - name: mermaid
+              class: mermaid
+              format: !!python/name:pymdownx.superfences.fence_code_format
 
 nav:
   - SEA Service Guide:
@@ -62,6 +66,7 @@ nav:
             - License Provision Guide: LicenseProvision.md
             - License Suspension Guidelines: LicenseSuspend.md
             - Relicense Portal: Relicense.md
+            - Perpetual License Retirement: PerpetualRetirement.md
         - Reseller Guide: Reseller.md
         - Service Team Salesforce Quick Text: Quicktext.md
         - Help and Resources:
