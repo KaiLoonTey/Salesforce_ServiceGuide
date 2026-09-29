@@ -1,6 +1,4 @@
----
-source_url: https://internal.trimble.com/policy/retirement-perpetual-licenses
----
+
 
 # Policy Update: Retirement of Maintenance & Support Services
 
@@ -9,7 +7,7 @@ source_url: https://internal.trimble.com/policy/retirement-perpetual-licenses
     
 	**Presenters:** Panu Laasonen & Anne Palsala
     
-	**Meeting Link / Recording:** [Google Meet ↗️](https://meet.google.com/hsw-npna-cua)
+	**Meeting Link / Recording:** [Google Meet ↗️](https://drive.google.com/file/d/1XlBQNMrWu_xonsEecqC_EH5SZYh_1f1Z/view)
     (Note: The event was recorded and distributed for those unable to attend live).
 
 ![Perpetual License Support Retirement Guide](assets/Perpetual_License_Support_Retirement_Guide.png)
