@@ -113,19 +113,19 @@
 <br>
 ```mermaid
 graph TD
-    A[Does customer have active maintenance contract for licenses?]
+    A[Does customer have active<br/>maintenance contract for licenses?]
     
-    A -->|YES| B[Is the request for a supported legacy version activation on<br/>new/failed hardware?]
-    A -->|NO| C[Has customer been informed of EULA / Offering Terms?]
+    A -->|YES| B[Is the request for a supported<br/>legacy version activation on<br/>new/failed hardware?]
+    A -->|NO| C[Has customer been informed<br/>of EULA / Offering Terms?]
     
-    B -->|YES| D[<b>Resolution</b><br/>Proceed to Technical Support.<br/>Full support SLA applies. Generate<br/>replacement key or assist with migration.]
-    B -->|NO| E[<b>Resolution</b><br/>You can use the Initial Response template to<br/>explain Clause 4.13 and Service boundaries.]
+    B -->|YES| D[<b>Resolution</b><br/>Proceed to Technical Support.<br/>Full support SLA applies.<br/>Generate replacement key<br/>or assist with migration.]
+    B -->|NO| E[<b>Resolution</b><br/>Use the 'Initial Response'<br/>template to explain Clause 4.13<br/>and Service boundaries.]
     
     C -->|NO| E
-    C -->|YES| F[Is the customer willing to explore NUL<br/>subscription options with Sales?]
+    C -->|YES| F[Is the customer willing to<br/>explore NUL subscription<br/>options with Sales?]
     
-    F -->|NO| G[<b>Resolution</b><br/>Reiterate that non-maintained<br/>perpetual licenses are out of<br/>support and close the ticket.]
-    F -->|YES| H[<b>Resolution</b><br/>Inform Sales/Account Manager]
+    F -->|NO| G[<b>Resolution</b><br/>Reiterate that non-maintained<br/>perpetual licenses are out<br/>of support and close ticket.]
+    F -->|YES| H[<b>Resolution</b><br/>Inform Sales or<br/>Account Manager]
 
     %% Applying border colors to match the image
     classDef resolutionGreen fill:#fff,stroke:#2e7d32,stroke-width:2px,color:#000;
@@ -135,7 +135,7 @@ graph TD
     class A,B,C,F standardBox;
     class D,H resolutionGreen;
     class E,G resolutionRed;
-```	
+```
 
 ## 6. Standard Support Response Templates
 
