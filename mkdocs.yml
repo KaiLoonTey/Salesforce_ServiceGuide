@@ -47,6 +47,7 @@ nav:
     - SalesForce Service Console:
         - Overview: index.md
         - Accessing Salesforce: Access.md
+        - Checking Maintenance Status: MaintenanceStatus.md
         - Case Management:
             - Working on Cases: WorkingonCases.md
             - Finding the Contacts: Contact.md
