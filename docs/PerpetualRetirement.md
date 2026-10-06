@@ -16,7 +16,7 @@
 
 | Event | Date | Status / Impact |
 | :--- | :--- | :--- |
-| [**Prior Announcement (End of Life)** ↗️](https://www.tekla.com/terms-and-conditions/end-of-life) | June 11, 2024 | <span style="color:green">Completed</span> |
+| [**Prior Announcement (End of Life)** ↗️](https://www.tekla.com/terms-and-conditions/end-of-life){:Target="blank"} | June 11, 2024 | <span style="color:green">Completed</span> |
 | **Retirement Announcement** | October 1, 2026 | <span style="color:red">Upcoming Rollout</span> |
 | **Maintained Licenses (EOL Date)** | Dec 31, 2027 | Final Support Deadline |
 | **Unmaintained Licenses** | Immediate | No replacement keys/support |
