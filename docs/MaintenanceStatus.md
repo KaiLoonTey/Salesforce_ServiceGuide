@@ -29,12 +29,12 @@ You should also review the general account details to confirm their active statu
 
 ![Salesforce Account Details](assets/Trimble__Account_Details.png){width="80%"}
 
-### Company Data & TC1 Major Accounts
+!!! info "Company Data & TC1 Major Accounts"
 
-1.  Scroll down to the **Company Data** section on the Account page.
-2.  **Crucial Check:** Look at the **Description** field. If the account is flagged as a **TC1 Major Account Parent**, you **must** follow the specific instructions provided (e.g., contacting `emea-deal-operations@trimble.com` prior to any changes).
+    1. Scroll down to the **Company Data** section on the Account page.
+    2. **Crucial Check:** Look at the **Description** field. If the account is flagged as a **TC1 Major Account Parent**, you **must** follow the specific instructions provided (e.g., contacting `emea-deal-operations@trimble.com` prior to any changes).
 
-![Salesforce Company Data TC1 Check](assets/TC1.png)
+    ![Salesforce Company Data TC1 Check](assets/TC1.png)
 
 ---
 
