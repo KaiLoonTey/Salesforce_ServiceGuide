@@ -103,7 +103,7 @@
     * **Disposal Requirement:** "When disposing of Equipment in any manner whatsoever, You shall uninstall and remove and ensure that any Authorized Affiliates or Professional Consultants uninstall and remove the Software from such equipment prior to disposal, and take all other steps necessary to prevent the Software or any part thereof from coming into the possession of any third parties".
     * **Liability:** "A failure to do so shall be deemed to constitute breach of this EULA".
     
-    [Eula 2021 ↗️](https://www.tekla.com/terms-and-conditions/eula-2021) | [Eula 2024 revB ↗️](https://www.tekla.com/terms-and-conditions/eula)
+    [Eula 2021 ↗️](https://www.tekla.com/terms-and-conditions/eula-2021){:Target="blank"} | [Eula 2024 revB ↗️](https://www.tekla.com/terms-and-conditions/eula){:Target="blank"}
 
 ---
 

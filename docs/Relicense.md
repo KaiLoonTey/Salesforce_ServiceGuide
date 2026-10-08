@@ -12,12 +12,12 @@ These processes apply **only** to users on active maintenance. If the customer i
 </div>
 
 ## Tekla Structures Replacement
-1. Get the MAC address following the [replacement guide](https://support.tekla.com/article/replacing-licenses-for-tekla-structures).
-2. Verify the MAC address using [Licensing Tools](https://activate.tekla.com//flexnet/operationsportal/logon.do).
-3. Provide the user the relicense form from the resources section below.
+1. Get the MAC address following the [replacement guide](https://support.tekla.com/article/replacing-licenses-for-tekla-structures){:Target="blank"}.
+2. Verify the MAC address using [Licensing Tools](https://activate.tekla.com//flexnet/operationsportal/logon.do){:Target="blank"}.
+3. Provide the user the relicense form from the resources section below and get sales approval signature.
 4. Forward the given MAC address and signed relicense form to the order team ([tekla.orders@trimble.com](mailto:tekla.orders@trimble.com)).
 5. Upon receiving the replacement entitlement, kindly inform the user.
-6. Save all signed forms in the [Signed forms record (2026)](https://drive.google.com/drive/folders/12JpMhphfSbUY-IMfTzEZaEpvG-xB-QT2) folder.
+6. Save all signed forms in the [Signed forms record (2026)](https://drive.google.com/drive/folders/12JpMhphfSbUY-IMfTzEZaEpvG-xB-QT2){:Target="blank"} folder.
 
 ## Structural Design Replacement
 1. Get the snapshot of the lock ID from the user.
@@ -25,7 +25,7 @@ These processes apply **only** to users on active maintenance. If the customer i
 3. Provide details to the order team ([tekla.orders@trimble.com](mailto:tekla.orders@trimble.com)) for relicensing.
 4. Inform the user regarding the license delivery.
 5. Upon receipt of the new license, conduct a remote session to remove the old license OR request proof of removal (screenshot/video).
-6. Save all signed forms in the [Signed forms record (2026)](https://drive.google.com/drive/folders/12JpMhphfSbUY-IMfTzEZaEpvG-xB-QT2) folder.
+6. Save all signed forms in the [Signed forms record (2026)](https://drive.google.com/drive/folders/12JpMhphfSbUY-IMfTzEZaEpvG-xB-QT2){:Target="blank"} folder.
 
 ---
 
@@ -45,7 +45,7 @@ These processes apply **only** to users on active maintenance. If the customer i
 
 **Request to Relicense (Unable to Activate)**
 
-1. Log in to the [FlexNet Operations Portal](https://activate.tekla.com//flexnet/operationsportal/logon.do).
+1. Log in to the [FlexNet Operations Portal](https://activate.tekla.com//flexnet/operationsportal/logon.do){:Target="blank"}.
 2. Check the MAC address using the portal tools. Navigate to **License Support > List Licenses**.
 3. Under Entitlements, you can see the number of licenses activated. Check the Host ID under Fulfillment and match it with the user-provided MAC address.
 4. You can also view entitlement details to see activated quantities vs. remaining quantities.
@@ -58,22 +58,22 @@ Use these guides for on-maintenance customers who have a poor internet connectio
 **Manual Deactivation**
 
 &rarr; [How to deactivate licenses manually 
-(Client Side)](https://support.tekla.com/internal/how-to-deactivate-licenses-manually)
+(Client Side)](https://support.tekla.com/internal/how-to-deactivate-licenses-manually){:Target="blank"}
 
-&rarr; [How to process manual deactivation files (FNO Portal)](https://support.tekla.com/internal/how-to-process-manual-deactivation-files-in-fno-portal)
+&rarr; [How to process manual deactivation files (FNO Portal)](https://support.tekla.com/internal/how-to-process-manual-deactivation-files-in-fno-portal){:Target="blank"}
 
 **Manual Activation**
 
-&rarr; [How to activate licenses manually (Client Side)](https://support.tekla.com/internal/how-to-activate-licenses-manually)
+&rarr; [How to activate licenses manually (Client Side)](https://support.tekla.com/internal/how-to-activate-licenses-manually){:Target="blank"}
 
-&rarr; [How to process manual activation files (FNO Portal)](https://support.tekla.com/internal/how-to-process-manual-activation-files-in-fno-portal)
+&rarr; [How to process manual activation files (FNO Portal)](https://support.tekla.com/internal/how-to-process-manual-activation-files-in-fno-portal){:Target="blank"}
 
 ---
 
 !!! info "Resources & Forms"
 
-	**Tekla Structures Relicense Form:** [Download Here](https://drive.google.com/file/d/1AAwruY7RPhhbZOWCoU2FP3YQCXW55Z_A/view?usp=drive_link) 
+	**Tekla Structures Relicense Form:** [Download Here](https://drive.google.com/file/d/1AAwruY7RPhhbZOWCoU2FP3YQCXW55Z_A/view?usp=drive_link){:Target="blank"} 
 
-	**Structural Design Relicense Form:** [Download Here](https://drive.google.com/file/d/1pFLXkATNROfFrMNkGPekC1nxpToLoTnn/view?usp=drive_link) 
+	**Structural Design Relicense Form:** [Download Here](https://drive.google.com/file/d/1pFLXkATNROfFrMNkGPekC1nxpToLoTnn/view?usp=drive_link){:Target="blank"} 
 
-	**Tekla User Assistance:** [Replacing Licenses Article](https://support.tekla.com/article/replacing-licenses-for-tekla-structures?check_logged_in=1)
+	**Tekla User Assistance:** [Replacing Licenses Article](https://support.tekla.com/article/replacing-licenses-for-tekla-structures?check_logged_in=1){:Target="blank"}
