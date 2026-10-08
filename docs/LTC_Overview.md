@@ -2,7 +2,7 @@
 
 Learn.Trimble serves as the central platform for all training courses available in Trimble SEA. This guide outlines the standard workflow for trainers and participants to ensure smooth course delivery and certification.
 
-&rarr; **[Access the Learn.Trimble Platform](https://learn.trimble.com/learn/signin)**
+&rarr; **[Access the Learn.Trimble Platform](https://learn.trimble.com/learn/signin){:Target="blank"}**
 
 ---
 
@@ -24,6 +24,6 @@ The training process on Learn.Trimble follows these five key stages:
 !!! info "Resources & Tools"
     Access detailed guides and certification tools below.
 
-    * **[General Guide (PDF)](https://drive.google.com/file/d/10Be_fpwkOmbZiEp0saXmedHIroWe7Qrb/view)**
-    * **[Global Support Guide](https://confluence.trimble.tools/spaces/InstructionsProcesses/pages/126102945/Learn.trimble+guide+for+Global+Support+Services)**
+    * **[General Guide (PDF)](https://drive.google.com/file/d/10Be_fpwkOmbZiEp0saXmedHIroWe7Qrb/view){:Target="blank"}**
+    * **[Global Support Guide](https://confluence.trimble.tools/spaces/InstructionsProcesses/pages/126102945/Learn.trimble+guide+for+Global+Support+Services){:Target="blank"}**
     * **[Credential Retrieval Tool](LTC_Credential.md)**

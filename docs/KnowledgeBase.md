@@ -12,7 +12,7 @@ Support Agents can draft articles, assign for technical and style review, and up
 ### 2. Structure SEA List View
 Select the **Structure SEA Support** list view to see all articles relevant to the team. Pin this view for easy access. 
 
-**[Access Salesforce Knowledge Article ListView](https://trimbledx.lightning.force.com/lightning/o/Knowledge__kav/list?filterName=00BPO00000DcEk52AF)**
+**[Access Salesforce Knowledge Article ListView](https://trimbledx.lightning.force.com/lightning/o/Knowledge__kav/list?filterName=00BPO00000DcEk52AF){:Target="blank"}**
 
 ---
 

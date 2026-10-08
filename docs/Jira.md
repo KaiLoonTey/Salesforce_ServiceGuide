@@ -11,20 +11,20 @@ The goal of a Jira issue is to get a bug fixed or a feature added. Follow these 
 
 * **Creating Jira Cases Effectively:** A comprehensive PDF guide on the best practices for structuring your Jira tickets to ensure clarity and actionable feedback. 
 
-	&rarr; [View PDF Guide](https://drive.google.com/file/d/10_9oMbHLd7h-6AqgTNmPY79l2TrLmRDc/view)
+	&rarr; [View PDF Guide](https://drive.google.com/file/d/10_9oMbHLd7h-6AqgTNmPY79l2TrLmRDc/view){: target="_blank" }
 
 * **Confluence - Writing Effective Issues:** Internal process documentation detailing the required fields and information standards for Trimble Jira issues. 
 
-	&rarr; [Open Confluence](https://confluence.trimble.tools/display/InstructionsProcesses/Writing+Effective+Jira+Issues)
+	&rarr; [Open Confluence](https://confluence.trimble.tools/display/InstructionsProcesses/Writing+Effective+Jira+Issues){: target="_blank" }
 
 * **Confluence - General Jira Guide:** General reference for navigating the Jira platform, workflows, and issue tracking within the organization. 
 
-	&rarr; [Open Confluence](https://confluence.trimble.tools/display/InstructionsProcesses/Jira)
+	&rarr; [Open Confluence](https://confluence.trimble.tools/display/InstructionsProcesses/Jira){: target="_blank" }
 
 * **Video Guide:** Visual walkthrough and supplementary video material for understanding Jira issue creation. 
 
-	&rarr; [Watch Video](https://drive.google.com/file/d/10avSGk4eM5M756bj2Bn-vfQbWGwxvbCi/view)
+	&rarr; [Watch Video](https://drive.google.com/file/d/10avSGk4eM5M756bj2Bn-vfQbWGwxvbCi/view){: target="_blank" }
 
 * **Trimble Jira Portal:** Access the main Jira platform to create, track, and manage your issues and project workflows directly. 
 
-	&rarr; [Go to Jira Portal](https://jira.trimble.tools/)
+	&rarr; [Go to Jira Portal](https://jira.trimble.tools/){: target="_blank" }

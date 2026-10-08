@@ -26,7 +26,7 @@ Access the main portal or select the appropriate region below to view available 
 !!! tip "Centralized Booking Portal"
     Visit the main TSEA Clinic Booking site to view all available regional and product-specific schedules in one place. 
     
-	&rarr; **[Open Booking Portal](https://sites.google.com/trimble.com/tseaclinicbookingportal/trimble-sea-clinic-booking-portal)**
+	&rarr; **[Open Booking Portal](https://sites.google.com/trimble.com/tseaclinicbookingportal/trimble-sea-clinic-booking-portal){:Target="blank"}**
 
 ### Regional & Product Schedules
 

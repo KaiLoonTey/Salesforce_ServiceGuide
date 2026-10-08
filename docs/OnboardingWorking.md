@@ -40,8 +40,8 @@ Understanding the customer journey through Salesforce onboarding stages.
 </div>
 
 1. **Locate the Record:** Navigate to the **Onboarding tab** in your main navigation bar, or use the quick links below. Select the specific Onboarding Object from the list view to open the record.
-    * &rarr; [SEA Onboarding List](https://trimbledx.lightning.force.com/lightning/o/Onboarding__c/list?filterName=SEA_Onboarding1)
-    * &rarr; [Onboarding Dashboard](https://trimbledx.lightning.force.com/lightning/r/Dashboard/01ZPO00000Oy1WT2AZ/view?queryScope=userFolders)
+    * &rarr; [SEA Onboarding List](https://trimbledx.lightning.force.com/lightning/o/Onboarding__c/list?filterName=SEA_Onboarding1){: target="_blank" }
+    * &rarr; [Onboarding Dashboard](https://trimbledx.lightning.force.com/lightning/r/Dashboard/01ZPO00000Oy1WT2AZ/view?queryScope=userFolders){: target="_blank" }
 
 2. **Verify Details:** Click on the **Details tab**. Review key fields to ensure the onboarding data is current and accurate.
 
@@ -65,7 +65,7 @@ Understanding the customer journey through Salesforce onboarding stages.
     
     ![Log Call Onboarding](assets/logcallonboarding.png){ width="50%" }
 
-8. **Confirm License Access:** Ensure the onboarding contact has access to their software licenses so they can successfully start using the product. Check their access status using the [Tekla Admin Tool](https://admin.account.tekla.com/).
+8. **Confirm License Access:** Ensure the onboarding contact has access to their software licenses so they can successfully start using the product. Check their access status using the [Tekla Admin Tool](https://admin.account.tekla.com/){: target="_blank" }.
     
     !!! note "Non-Admin Users"
         If the onboarding user is not a license administrator, you **must provide them with their company's admin contact information**. This allows them to request the necessary license assignments directly from their internal team.

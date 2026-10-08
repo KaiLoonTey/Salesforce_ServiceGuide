@@ -10,8 +10,8 @@ A comprehensive guide for the TSEA Service Team on managing the end-to-end train
 
 Trainers notify and invite participants via email. Ensure they have access to the appropriate enrollment guides before the session begins.
 
-* &rarr; [TS Enrollment Guide](https://sites.google.com/trimble.com/teklastructuretraining/enrollment-setup)
-* &rarr; [TSD Enrollment Guide](https://sites.google.com/trimble.com/enrollment-setup-tsd-and-tedds/training-enrollment_1)
+* &rarr; [TS Enrollment Guide](https://sites.google.com/trimble.com/teklastructuretraining/enrollment-setup){: target="_blank" }
+* &rarr; [TSD Enrollment Guide](https://sites.google.com/trimble.com/enrollment-setup-tsd-and-tedds/training-enrollment_1){: target="_blank" }
 
 ## 2. Session Creation & Communication
 
@@ -45,8 +45,8 @@ Create the session on **learn.trimble.com** and send the formal invitation email
 
 	**Thai-Language Enrollment Guides:**
 
-	* &rarr; [TS Enrollment Guide (TH)](https://sites.google.com/trimble.com/th-ts-trainingenroll/enrollment-setup)
-	* &rarr; [TSD Enrollment Guide (TH)](https://sites.google.com/trimble.com/th-tsd-trainingenroll/enrollment-setup)
+	* &rarr; [TS Enrollment Guide (TH)](https://sites.google.com/trimble.com/th-ts-trainingenroll/enrollment-setup){: target="_blank" }
+	* &rarr; [TSD Enrollment Guide (TH)](https://sites.google.com/trimble.com/th-tsd-trainingenroll/enrollment-setup){: target="_blank" }
 
 ---
 
@@ -57,7 +57,7 @@ Use the credentials below for training laptops.
 !!! important "🔒 Trimble ID Authentication & License Update Notice"
     Please be advised that **each Trimble ID listed below has now been assigned both a Trimble SEA and a Trimble Malaysia training license.** This consolidated approach streamlines access across our regional training sessions.
 
-    Additionally, due to recent security enhancements involving [Trimble ID Multi-Factor Authentication (MFA)](https://help.trimble.com/doc/trimble-account-services/trimble-account-services/sign-in-and-profile/manage-my-trimble-id-profile/trimble-id-multifactor-authentication), all verification codes and login emails for these training accounts are now routed to a centralized distribution group email address:
+    Additionally, due to recent security enhancements involving [Trimble ID Multi-Factor Authentication (MFA)](https://help.trimble.com/doc/trimble-account-services/trimble-account-services/sign-in-and-profile/manage-my-trimble-id-profile/trimble-id-multifactor-authentication){: target="_blank" }, all verification codes and login emails for these training accounts are now routed to a centralized distribution group email address:
 
     **tekla.training.sea@trimble.com**
 
@@ -84,4 +84,4 @@ Use the credentials below for training laptops.
 
 For more details on the training framework, please refer to the global structural bookmark:
 <br>
-&rarr; [Structures Global Training Framework](https://sgmyserviceguide.trimblesea.com/InternalGuide/Structures%20Global%20Training%20Framework%20.html)
+&rarr; [Structures Global Training Framework](https://sgmyserviceguide.trimblesea.com/InternalGuide/Structures%20Global%20Training%20Framework%20.html){: target="_blank" }

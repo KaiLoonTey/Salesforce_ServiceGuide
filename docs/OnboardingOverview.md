@@ -8,11 +8,11 @@ Integrated workflows utilizing automated object creation.
 
 	Share these product-specific sites directly with customers to outline their technical roadmap.
 
-	*   [Tekla Structures](https://sites.google.com/trimble.com/onboarding-teklastructures/home)
-	*   [Structural Design](https://sites.google.com/trimble.com/tsdteddsonboardingguide/home)
-	*   [Trimble Connect](https://sites.google.com/trimble.com/onboarding-trimbleconnect/home)
-	*   [Tekla Model Sharing](https://sites.google.com/trimble.com/onboarding-teklamodelsharing?usp=sharing)
-	*   [Tekla PowerFab](https://sites.google.com/trimble.com/teklapowerfabonboardingguide/home)
+	*   [Tekla Structures](https://sites.google.com/trimble.com/onboarding-teklastructures/home){: target="_blank" }
+	*   [Structural Design](https://sites.google.com/trimble.com/tsdteddsonboardingguide/home){: target="_blank" }
+	*   [Trimble Connect](https://sites.google.com/trimble.com/onboarding-trimbleconnect/home){: target="_blank" }
+	*   [Tekla Model Sharing](https://sites.google.com/trimble.com/onboarding-teklamodelsharing?usp=sharing){: target="_blank" }
+	*   [Tekla PowerFab](https://sites.google.com/trimble.com/teklapowerfabonboardingguide/home){: target="_blank" }
 
 
 	!!! warning "Note for Thai Team"
@@ -39,8 +39,8 @@ Support sends a standard email with activation and installation steps to the cus
 
 **View Templates:**
 
-* &rarr; [Structural Design](https://docs.google.com/document/d/1OE_OxBX3s7Ijd857dFzo-AGtvo8KDm618uNhFsBaL50/edit?tab=t.0)
-* &rarr; [Tekla Structures](https://docs.google.com/document/d/1j7npJf8TTwXvl8fnU6FQz3fvqK9uaV7lvKG5-aPD0TM/edit?tab=t.0)
+* &rarr; [Structural Design](https://docs.google.com/document/d/1OE_OxBX3s7Ijd857dFzo-AGtvo8KDm618uNhFsBaL50/edit?tab=t.0){: target="_blank" }
+* &rarr; [Tekla Structures](https://docs.google.com/document/d/1j7npJf8TTwXvl8fnU6FQz3fvqK9uaV7lvKG5-aPD0TM/edit?tab=t.0){: target="_blank" }
 
 ## 2. TSEA Clinic
 Technical sessions are available for customers to troubleshoot complex setups.
@@ -48,17 +48,17 @@ Technical sessions are available for customers to troubleshoot complex setups.
 ## 3. Support Resources
 Self-service access to regional FAQs and technical documentation. 
 
-* &rarr; [Visit Support Hub](https://sites.google.com/trimble.com/teklasupportresourcessea/main)
+* &rarr; [Visit Support Hub](https://sites.google.com/trimble.com/teklasupportresourcessea/main){: target="_blank" }
 
 ---
 
 ## Guide on Customer Onboarding
 
-*   **Confluence Page:** [Full Program Documentation](https://confluence.trimble.tools/spaces/CSS/pages/500683299/Customer+Care+Program+2024)
-*   **Learn.Trimble Module:** [Technical Training Course](https://learn.trimble.com/learn/course/3498/tekla-customer-care-program-training-course?generated_by=31904&hash=33a35a9f0c06795894b3ccbdd57af3d71efbdf63)
-*   **HQ Presentation:** [July 2024: Onboarding Processes](https://docs.google.com/presentation/d/1NFENf-kgvTC3NxCQTHWHUPzh3P9KhXsDNqoJFpN2d74/edit?slide=id.g2eb16e3119e_0_10#slide=id.g2eb16e3119e_0_10)
-*   **Regional Onboarding Materials:** [Jan 2026 Regional Onboarding Material](https://drive.google.com/file/d/16Z5xZKVK76am9hz0srdrIEX5tvcT3UKT/view)
+*   **Confluence Page:** [Full Program Documentation](https://confluence.trimble.tools/spaces/CSS/pages/500683299/Customer+Care+Program+2024){: target="_blank" }
+*   **Learn.Trimble Module:** [Technical Training Course](https://learn.trimble.com/learn/course/3498/tekla-customer-care-program-training-course?generated_by=31904&hash=33a35a9f0c06795894b3ccbdd57af3d71efbdf63){: target="_blank" }
+*   **HQ Presentation:** [July 2024: Onboarding Processes](https://docs.google.com/presentation/d/1NFENf-kgvTC3NxCQTHWHUPzh3P9KhXsDNqoJFpN2d74/edit?slide=id.g2eb16e3119e_0_10#slide=id.g2eb16e3119e_0_10){: target="_blank" }
+*   **Regional Onboarding Materials:** [Jan 2026 Regional Onboarding Material](https://drive.google.com/file/d/16Z5xZKVK76am9hz0srdrIEX5tvcT3UKT/view){: target="_blank" }
 
 !!! info "Automation Update (Jan 2026)"
     The **Onboarding Object** creation is now automated in Salesforce. For a full briefing on the current status of the product onboarding automation, review the recording below.
-    &rarr; **[Recording (7 Jan 2026) - Product Onboarding Automation Status](https://drive.google.com/file/d/1yYp7Gf-YsGE8qEzxKGkj6FPrCkM_1Ez9/view)**
+    &rarr; **[Recording (7 Jan 2026) - Product Onboarding Automation Status](https://drive.google.com/file/d/1yYp7Gf-YsGE8qEzxKGkj6FPrCkM_1Ez9/view){: target="_blank" }**

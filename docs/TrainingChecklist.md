@@ -12,16 +12,16 @@ To support a more structured and effective training experience, we have prepared
 ## Tekla Structures
 Evaluation checklist for general Tekla Structures training modules.
 
-&rarr; **[Open TS Checklist](https://sites.google.com/trimble.com/training-checklist/checklist?pli=1)**
+&rarr; **[Open TS Checklist](https://sites.google.com/trimble.com/training-checklist/checklist?pli=1){:Target="blank"}**
 
 ## Tekla PowerFab
 Evaluation checklist for PowerFab management, estimation, and production control.
 
-&rarr; **[Open PowerFab Checklist](https://sites.google.com/trimble.com/teklapowerfab/agenda)**
+&rarr; **[Open PowerFab Checklist](https://sites.google.com/trimble.com/teklapowerfab/agenda){:Target="blank"}**
 
 ## Structural Design
 Specific checklists for analysis and design products.
 
-* **[Tedds Fundamental Checklist](https://sites.google.com/trimble.com/tedds-fundamental/)**
-* **[TSD Fundamental Checklist](https://sites.google.com/trimble.com/tsd-fundamental/)**
-* **[TSD Intermediate Checklist](https://sites.google.com/trimble.com/tsd-intermediate/)**
+* **[Tedds Fundamental Checklist](https://sites.google.com/trimble.com/tedds-fundamental/){:Target="blank"}**
+* **[TSD Fundamental Checklist](https://sites.google.com/trimble.com/tsd-fundamental/){:Target="blank"}**
+* **[TSD Intermediate Checklist](https://sites.google.com/trimble.com/tsd-intermediate/){:Target="blank"}**

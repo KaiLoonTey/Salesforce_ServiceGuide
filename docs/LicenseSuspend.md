@@ -69,5 +69,5 @@ In rare circumstances where absolute verification is needed, you may check the A
 3. **Check Balance:** Check the "Credit and Collections" section specifically looking for the current AR Balance.
 
 ### Reference Cases
-* [Case 01716823](https://trimbledx.lightning.force.com/lightning/r/Case/500PO00000jGLjMYAW/view?ws=%2Flightning%2Fr%2FAccount%2F001PO00000Ts9MBYAZ%2Fview)
-* [Case 01710460](https://trimbledx.lightning.force.com/lightning/r/Case/500PO00000j5XT6YAM/view?ws=%2Flightning%2Fr%2FAccount%2F0017V00001y5filQAA%2Fview)
+* [Case 01716823](https://trimbledx.lightning.force.com/lightning/r/Case/500PO00000jGLjMYAW/view?ws=%2Flightning%2Fr%2FAccount%2F001PO00000Ts9MBYAZ%2Fview){:Target="blank"}
+* [Case 01710460](https://trimbledx.lightning.force.com/lightning/r/Case/500PO00000j5XT6YAM/view?ws=%2Flightning%2Fr%2FAccount%2F0017V00001y5filQAA%2Fview){:Target="blank"}

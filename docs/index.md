@@ -8,7 +8,7 @@ Welcome to the Salesforce Service Cloud Guide. This site contains essential work
     **Scope:** Covers key processes including case creation, case resolution, reactivation, and working with contacts.  
     <br>
 
-[View Slides Guide &rarr;](https://docs.google.com/presentation/d/1H0EDOhdHyXbEhDhli1be-eTYM7CkDZ6A/edit){ .md-button .md-button--primary style="margin-right: 10px;" } [Support Help Portal &rarr;](https://cisjira.trimble.com/servicedesk/customer/portal/4/create/517){ .md-button }
+[View Slides Guide &rarr;](https://docs.google.com/presentation/d/1H0EDOhdHyXbEhDhli1be-eTYM7CkDZ6A/edit){ .md-button .md-button--primary style="margin-right: 10px;" } [Support Help Portal &rarr;](https://cisjira.trimble.com/servicedesk/customer/portal/4/create/517){ .md-button target="_blank"}
 
 
 ---

@@ -13,10 +13,10 @@ For A&D training involving Singapore PEs, we will apply for Professional Develop
 
 Download the step-by-step PDF document for a complete walkthrough of the PDU points application process for PE training sessions. 
 
-&rarr; **[Open PDF Guide](https://drive.google.com/file/d/1xdR9mAHLcnzzPZEwrfkxW7kRDCw09wZ-/view)**
+&rarr; **[Open PDF Guide](https://drive.google.com/file/d/1xdR9mAHLcnzzPZEwrfkxW7kRDCw09wZ-/view){:Target="blank"}**
 
 
 ---
 !!! note "Security Access"
     If prompted for authentication during the application or while accessing specific A&D support resources, please use your Singpass to log in.
-    &rarr; **[Login with Singpass](https://www2.peb.gov.sg/)**
+    &rarr; **[Login with Singpass](https://www2.peb.gov.sg/){:Target="blank"}**

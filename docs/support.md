@@ -26,4 +26,4 @@
     Have a quick query? Join the internal chat group to ask questions and get real-time help from the community.
 </p>
 
-[**Join Google Chat Group &rarr;**](https://chat.google.com/room/AAAAmSkI_Q8?cls=7){ .md-button }
+[**Join Google Chat Group &rarr;**](https://chat.google.com/room/AAAAmSkI_Q8?cls=7){ .md-button :Target="blank" }
