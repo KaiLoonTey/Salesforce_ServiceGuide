@@ -189,3 +189,87 @@ Best regards,
 [Your Name] 
 Tekla Support
 ```
+
+
+
+## 7. Frequently Asked Questions (FAQ)
+
+!!! info "Reference" 
+	Source: [End of Sales of Tekla Maintenance Products for Perpetual License ↗️](https://support.tekla.com/article/end-of-sales-of-tekla-maintenance-products-for-perpetual-license?_gl=1*glopb2*_gcl_au*MTAyMTMxNDQ5MS4xNzg5NTMwMTI3*_ga*MjAzMDk2MjU4OS4xNzg5NTMwMTI3*_ga_X88YXSWCN1*czE3OTI0NzY2NDYkbzE3MyRnMSR0MTc5MjQ3NzMwNSRqNjAkbDAkaDA.){:Target="blank"}
+
+??? faq "1. What has been announced?" 
+	Trimble announced the end of sale of maintenance products for all perpetual license types of Tekla software.
+
+??? faq "2. Which products are affected by this change?" 
+	End of Sale is announced for the following maintenance products:
+
+	```
+	* **Tekla Structures**
+	  * Project Viewer
+	  * Production Planner - Concrete
+	  * Drafter
+	  * Construction Modeling
+	  * Engineering
+	  * Rebar Detailing
+	  * Precast Concrete Detailing
+	  * Steel Detailing
+	  * Primary
+	  * Full
+	* **Tekla Structural Designer**
+	* **Tekla Structural Designer LT**
+	* **Tekla Tedds**
+	* **Tekla Tedds LT**
+	* **Tekla Portal Frame Designer**
+	* **Tekla Portal Frame Designer LT**
+	* **Tekla Connection Designer**
+	* **Tekla EPM**
+	  * Tekla EPM Maintenance
+	  * Tekla EPM Additional maintenance
+	  * Tekla EPM Estimating maintenance
+	  * Tekla EPM Go maintenance
+	  * Tekla EPM Go Unlimited maintenance
+	  * Tekla EPM Inventory maintenance
+	  * Tekla EPM LT150 maintenance
+	  * Tekla EPM Production maintenance
+	  * Tekla EPM Production Additional maintenance
+	```
+
+??? faq "3. When will the last maintenance contracts be available for purchase?" 
+	The last maintenance contracts can be renewed in the fourth quarter of 2026, with all contracts ending no later than December 31, 2027.
+
+??? faq "4. What happens to existing customers with active maintenance contracts?" 
+	If you have an active maintenance contract, you may choose to renew annually until 2026. Maintenance service renewed in 2026 will be provided until December 31, 2027. We recommend starting to plan for your transition to subscription. We offer an upgrade path for our existing customers.
+
+??? faq "5. Are Tekla products available only via subscription?" 
+	Tekla products are currently available via subscription and starting from January 1, 2028, all Tekla software products will be available exclusively through subscription.
+
+??? faq "6. What is the subscription offering for Tekla products?" 
+	Tekla subscription offering covers all our software products available as subscription:
+
+	```
+	* Tekla Structures
+	* Tekla Tedds
+	* Tekla Structural Designer
+	* Tekla PowerFab
+	* Trimble Connect
+
+	For more information, please check our Tekla software products website or contact your local Tekla representative.
+	```
+
+??? faq "7. Can I renew my maintenance contract now to extend beyond 2027?" 
+	No, all maintenance contracts will expire no later than December 31, 2027, and will not be renewable beyond that date.
+
+??? faq "8. Why is Trimble ending the sale of maintenance products for Tekla perpetual licenses?" 
+	Trimble is transitioning towards a subscription-based model to align with the evolving software landscape and customer needs. This approach aims to provide more flexible, scalable, and up-to-date solutions.
+
+??? faq "9. Can I continue to use my existing perpetual licenses after 2027?" 
+	Yes, you can use the latest version you own. However, after the end of your maintenance contract, you will no longer have access to newer versions of the software, service packs, and all the benefits included in the maintenance plan, such as local help desk services. As stated in our Tekla Software Lifecycle Policy, if using old versions beyond the Recommended Age, data might be exposed to risks or other sudden problems might occur. It is recommended to use the latest Tekla product versions and install service packs or other possible security updates to utilize the benefits and ensure reliability and security. Trimble shall not be liable for any claims or damages related to the use of a product after its Recommended Age.
+
+??? faq "10. What support will be available once maintenance can no longer be purchased (for perpetual license)?" 	
+	Starting in 2028, the help desk support will be available for customers on subscription only. Product version support is available according to our Tekla Software Lifecycle Policy.
+
+??? faq "11. I am off maintenance now, can I buy a new maintenance contract?" 
+	No, we do not offer new maintenance contracts any longer. For customers currently off maintenance, we recommend subscription plans.
+
+??? faq "12. Will I be able to deactivate and activate my perpetual license if using them without maintenance even after 2027?" 
+	As of now, there has been no decision made regarding the cessation of license server operations. Consequently, for the time being, the activation and deactivation of perpetual licenses not covered by maintenance will continue to be supported.
