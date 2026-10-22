@@ -17,7 +17,7 @@
 | Event | Date | Status / Impact |
 | :--- | :--- | :--- |
 | [**Prior Announcement (End of Life)** ↗️](https://www.tekla.com/terms-and-conditions/end-of-life){:Target="blank"} | June 11, 2024 | <span style="color:green">Completed</span> |
-| **Retirement Announcement** | October 1, 2026 | <span style="color:red">Upcoming Rollout</span> |
+| **Retirement Announcement** | October 1, 2026 | <span style="color:green">Completed</span> |
 | **Maintained Licenses (EOL Date)** | Dec 31, 2027 | Final Support Deadline |
 | **Unmaintained Licenses** | Immediate | No replacement keys/support |
 
@@ -272,4 +272,11 @@ Tekla Support
 	No, we do not offer new maintenance contracts any longer. For customers currently off maintenance, we recommend subscription plans.
 
 ??? faq "12. Will I be able to deactivate and activate my perpetual license if using them without maintenance even after 2027?" 
-	As of now, there has been no decision made regarding the cessation of license server operations. Consequently, for the time being, the activation and deactivation of perpetual licenses not covered by maintenance will continue to be supported.
+	No. Support for license activation and re-hosting services for legacy perpetual licenses depends on your maintenance status leading up to December 31, 2027, and will end completely after that date:
+
+	**Licenses without a valid maintenance contract:** Trimble no longer issues replacement keys or supports license activation or re-hosting services, effective immediately.
+	
+	**Licenses with a valid maintenance contract:**  You can continue to activate and re-host your perpetual licenses through December 31, 2027.
+	
+	After December 31, 2027: Trimble will no longer support re-hosting, activation services, or replacement keys for any legacy perpetual licenses, regardless of whether they previously had an active maintenance contract.
+	Note: If you choose to remain on a perpetual license, ensure it is set up in a modern, stable server environment prior to December 31, 2027. Any hardware failure after this date will result in the permanent loss of the license.
