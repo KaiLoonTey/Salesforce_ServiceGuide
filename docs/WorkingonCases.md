@@ -16,8 +16,9 @@ To locate new cases assigned to your region:
 ![Salesforce Dashboard Preview](assets/dashboard.png)
 
 <br>
+[Open Salesforce Dashboard &rarr;](https://trimbledx.lightning.force.com/lightning/r/Dashboard/01ZPO00000KJrZl2AL/view?queryScope=userFolders){ .md-button .md-button--primary style="color: white;" target="_blank" }
 
-[**Open Salesforce Dashboard &rarr;**](https://trimbledx.lightning.force.com/lightning/r/Dashboard/01ZPO00000KJrZl2AL/view?queryScope=userFolders){ .md-button .md-button--primary target="_blank" }
+
 
 ---
 
@@ -27,6 +28,15 @@ To locate new cases assigned to your region:
     * **Check Maintenance Status:** Open the case and go to the **Company Assets** tab. Verify that the customer has an active and valid maintenance or subscription plan.
     * **Check for Account Flags:** Navigate to the **Details** tab and click on the Account Name. Review the account for any negative indicators, such as a **"Non-Pay Indicator"** or **"License Piracy Indicator"**.
 
+	**Sample Non-Pay indicator**
+	
+	![Salesforce NonPay](assets/SF_NonPay.png){width="70%"}
+	
+	**Sample License Piracy indicator**
+	
+	![Salesforce NonPay](assets/SF_LC.png){width="70%"}
+
+	[Open Salesforce LC/Non-Pay Report &rarr;](https://trimbledx.lightning.force.com/lightning/r/Report/00OPO00000AQ3HR2A1/view?queryScope=userFolders){ .md-button .md-button--primary style="color: white;" target="_blank" }
 ---
 
 ## Accepting the Case
@@ -44,3 +54,24 @@ To locate new cases assigned to your region:
 
 !!! note "Quick Close Scenarios"
     If a case is not a valid support request (e.g., sales query, off-maintenance customer, license compliance issue), forward it to the relevant department and use the **Quick Close** action instead of accepting it.
+	
+	
+
+
+## Quick Text
+
+Replying/sending email using standard Email Signature followed by Quick Text:
+
+> Go to **Feed & Actions** > **Email** tab
+
+1. Locate **Quick Text** button and insert quick text.
+
+   ![Locate Quick Text Button Placeholder](assets/quick_text_button.png){width="70%"}
+
+2. Choose the required quick text under **Trimble SEA - Standard Email Replies** from the listed as shown below:
+   * a. **SEA- LC Alert** ( For LC case)
+   * b. **SEA - Off Subscription** (For Off maintenance/Subscription)
+   * c. **SEA - Request for Live Support** (For TeamViewer)
+   * d. **Retirement of Perpetual License:** (For Off maintenance Perpetual License)
+
+   ![Choose Quick Text Options Placeholder](assets/quick_text_options.png){width="70%"}

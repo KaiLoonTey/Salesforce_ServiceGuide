@@ -16,6 +16,15 @@
   --md-typeset-a-color: #005a8c; 
 }
 
+.md-typeset .md-button.md-button--primary {
+  color: #ffffff !important;
+}
+
+.md-typeset .md-button.md-button--primary:hover,
+.md-typeset .md-button.md-button--primary:focus {
+  color: #ffffff !important;
+}
+
 /* --- GLOBAL FONT SETTINGS --- */
 body, .md-typeset {
     font-family: 'Open Sans', sans-serif !important;
