@@ -41,6 +41,8 @@ To locate new cases assigned to your region:
 
 ## Accepting the Case
 
+
+
 * If the pre-acceptance checks are clear, return to the case view.
 * Click the **Accept** button, which is typically located in the top-right action bar. This will assign the case to you.
 * Once accepted, the customer will automatically receive a notification that a team member has been assigned to their case.
@@ -55,7 +57,13 @@ To locate new cases assigned to your region:
 !!! note "Quick Close Scenarios"
     If a case is not a valid support request (e.g., sales query, off-maintenance customer, license compliance issue), forward it to the relevant department and use the **Quick Close** action instead of accepting it.
 	
+!!! warning "Handling License Compliance (LC) Alerts"
+	If the account shows an LC indicator alert, when sending the SEA- LC Alert quick text reply to the customer, 
+	you must ensure the following teams are copied on the email:
 	
+	**CC:** `elizabeth.wirapranata@trimble.com` (Licensing Compliance Sales Representative)
+
+	**CC:** `glsc@trimble.com` (APAC order team for all license matters on Salesforce)
 
 
 ## Quick Text
@@ -70,6 +78,10 @@ Replying/sending email using standard Email Signature followed by Quick Text:
 
 2. Choose the required quick text under **Trimble SEA - Standard Email Replies** from the listed as shown below:
    * a. **SEA- LC Alert** ( For LC case)
+		
+
+			
+
    * b. **SEA - Off Subscription** (For Off maintenance/Subscription)
    * c. **SEA - Request for Live Support** (For TeamViewer)
    * d. **Retirement of Perpetual License:** (For Off maintenance Perpetual License)
