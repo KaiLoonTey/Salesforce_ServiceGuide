@@ -41,7 +41,7 @@ A centralized repository of standardized quick text templates for use in Salesfo
 
     Tip for future use: To prevent the license from getting locked by accident, you can set the software to leave this box unchecked by default. In Tekla Structures, go to File > Settings > Advanced Options, search for XS_DEFAULT_KEEP_ONLINE_LICENSE_CHECKBOX, and set its value to FALSE.
 
-    You may refer to this link for a visual guide on releasing your license: [https://support.tekla.com/article/subscription-license-release-issues-in-tekla-structures-including-the-all-in-use-message](https://support.tekla.com/article/subscription-license-release-issues-in-tekla-structures-including-the-all-in-use-message)
+    You may refer to this link for a visual guide on releasing your license: [https://help.trimble.com/article/subscription-license-release-issues-in-tekla-structures-including-the-all-in-use-message](https://help.trimble.com/article/subscription-license-release-issues-in-tekla-structures-including-the-all-in-use-message)
     ```
 
 !!! info "Reset License for Structural Design (TEDDS/TSD)"
@@ -57,5 +57,5 @@ A centralized repository of standardized quick text templates for use in Salesfo
 
     Please set retain to NO for ALL DEVICES and ALL TEKLA PRODUCTS.
 
-    You may refer to this link for guide: [https://support.tekla.com/article/can-i-use-my-online-license-when-not-connected-to-the-internet](https://support.tekla.com/article/can-i-use-my-online-license-when-not-connected-to-the-internet)
+    You may refer to this link for guide: [https://help.trimble.com/article/can-i-use-my-online-license-when-not-connected-to-the-internet](https://help.trimble.com/article/can-i-use-my-online-license-when-not-connected-to-the-internet)
     ```
