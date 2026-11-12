@@ -12,7 +12,7 @@ These processes apply **only** to users on active maintenance. If the customer i
 </div>
 
 ## Tekla Structures Replacement
-1. Get the MAC address following the [replacement guide](https://support.tekla.com/article/replacing-licenses-for-tekla-structures){:Target="blank"}.
+1. Get the MAC address following the [replacement guide](https://help.trimble.com/article/replacing-licenses-for-tekla-structures){:Target="blank"}.
 2. Verify the MAC address using [Licensing Tools](https://activate.tekla.com//flexnet/operationsportal/logon.do){:Target="blank"}.
 3. Provide the user the relicense form from the resources section below and get sales approval signature.
 4. Forward the given MAC address and signed relicense form to the order team ([tekla.orders@trimble.com](mailto:tekla.orders@trimble.com)).
@@ -76,4 +76,4 @@ Use these guides for on-maintenance customers who have a poor internet connectio
 
 	**Structural Design Relicense Form:** [Download Here](https://drive.google.com/file/d/1pFLXkATNROfFrMNkGPekC1nxpToLoTnn/view?usp=drive_link){:Target="blank"} 
 
-	**Tekla User Assistance:** [Replacing Licenses Article](https://support.tekla.com/article/replacing-licenses-for-tekla-structures?check_logged_in=1){:Target="blank"}
+	**Tekla User Assistance:** [Replacing Licenses Article](https://help.trimble.com/article/replacing-licenses-for-tekla-structures){:Target="blank"}

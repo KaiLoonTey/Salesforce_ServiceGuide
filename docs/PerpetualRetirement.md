@@ -195,7 +195,7 @@ Tekla Support
 ## 7. Frequently Asked Questions (FAQ)
 
 !!! info "Reference" 
-	Source: [End of Sales of Tekla Maintenance Products for Perpetual License ↗️](https://support.tekla.com/article/end-of-sales-of-tekla-maintenance-products-for-perpetual-license?_gl=1*glopb2*_gcl_au*MTAyMTMxNDQ5MS4xNzg5NTMwMTI3*_ga*MjAzMDk2MjU4OS4xNzg5NTMwMTI3*_ga_X88YXSWCN1*czE3OTI0NzY2NDYkbzE3MyRnMSR0MTc5MjQ3NzMwNSRqNjAkbDAkaDA.){:Target="blank"}
+	Source: [End of Sales of Tekla Maintenance Products for Perpetual License ↗️](https://help.trimble.com/article/end-of-sales-of-tekla-maintenance-products-for-perpetual-license){:Target="blank"}
 
 ??? faq "1. What has been announced?" 
 	Trimble announced the end of sale of maintenance products for all perpetual license types of Tekla software.
