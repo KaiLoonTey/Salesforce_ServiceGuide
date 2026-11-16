@@ -58,15 +58,15 @@ Use these guides for on-maintenance customers who have a poor internet connectio
 **Manual Deactivation**
 
 &rarr; [How to deactivate licenses manually 
-(Client Side)](https://support.tekla.com/internal/how-to-deactivate-licenses-manually){:Target="blank"}
+(Client Side)](https://notebook.google.com/notebook/07c3ac4f-ebd5-4c9c-b89a-10e8fc34100f){:Target="blank"}
 
-&rarr; [How to process manual deactivation files (FNO Portal)](https://support.tekla.com/internal/how-to-process-manual-deactivation-files-in-fno-portal){:Target="blank"}
+&rarr; [How to process manual deactivation files (FNO Portal)](https://notebook.google.com/notebook/07c3ac4f-ebd5-4c9c-b89a-10e8fc34100f){:Target="blank"}
 
 **Manual Activation**
 
-&rarr; [How to activate licenses manually (Client Side)](https://support.tekla.com/internal/how-to-activate-licenses-manually){:Target="blank"}
+&rarr; [How to activate licenses manually (Client Side)](https://notebook.google.com/notebook/07c3ac4f-ebd5-4c9c-b89a-10e8fc34100f){:Target="blank"}
 
-&rarr; [How to process manual activation files (FNO Portal)](https://support.tekla.com/internal/how-to-process-manual-activation-files-in-fno-portal){:Target="blank"}
+&rarr; [How to process manual activation files (FNO Portal)](https://notebook.google.com/notebook/07c3ac4f-ebd5-4c9c-b89a-10e8fc34100f){:Target="blank"}
 
 ---
 
