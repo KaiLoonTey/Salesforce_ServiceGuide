@@ -65,6 +65,7 @@ nav:
             - How to Create Knowledge Article: KnowledgeBase.md
         - Licensing Management:
             - License Provision Guide: LicenseProvision.md
+            - Admin Console and Support Center Quick Guide: AdminConsole.md
             - License Suspension Guidelines: LicenseSuspend.md
             - Relicense Portal: Relicense.md
             - Perpetual License Retirement: PerpetualRetirement.md
