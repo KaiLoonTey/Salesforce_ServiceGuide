@@ -48,15 +48,16 @@ You can see who has Admin Console access, and which role they hold, from the cus
 
 1. Open the customer **Account** in Salesforce.
 2. Select the **Account Experience** tab.
-3. Under **Users with AXP Access**, the **Account Experience Roles** chart shows how many users hold each role.
-4. Click **View Report** to see each user's name, email and role.
+3. Under **Role Assignments Table**, **Role Assignments Table with details** directly displays each user's **Email**, **Contact**, **Role Assignment Name**, **Role** and **Status** (click **View All** if there are more records).
+
+![Role Assignments Table with details in Salesforce](assets/01-role-assignments-table.png){width="95%"}
 
 ![Account Experience tab in Salesforce](assets/01-account-experience-tab.png){width="95%"}
 
 ![Account Experience Details in Salesforce](assets/AXP_Details.png){width="95%"}
 
 !!! tip
-    **Users with AXP Access** only lists role assignments with the status **Assigned**. If the user you're looking for isn't there, expand **Role Assignment Status** to see all statuses (for example *Invite Sent*, *Invite Expired* or *Failed*). Always check that the email address the customer uses matches the one on the record.
+    **Role Assignments Table with details** shows all role assignment statuses (for example *Assigned*, *Role Revoke*, *Invite Sent*, *Invite Expired* or *Failed*). Always check that the email address the customer uses matches the one on the record.
 
 ---
 
@@ -90,7 +91,7 @@ Each role also has one of three Support Center access levels:
 
 ## 5. Checking a User's Support Center Access Level
 
-1. From the **Account Experience** tab, open the **Role Assignment Status** report (**View Report**).
+1. From the **Account Experience** tab, expand **Role Assignments Table** to view **Role Assignments Table with details**.
 2. In the **Role Assignment Name** column, click the user's record (for example *a4PPO0000036pf1*).
 
     ![Role Assignment Status report](assets/02-role-assignment-status-report.png){width="95%"}
